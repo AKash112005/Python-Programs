@@ -6,5 +6,5 @@ print(str(Num))
 print(type(Name))
 
 
-a = 'Irfan'
+a = 'Gnanesh'
 print(str(a))
