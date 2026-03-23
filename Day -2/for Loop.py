@@ -11,6 +11,6 @@ for Y in city :
 
 city = ['frankfurt','berlin','jerusalem','london']
 for Q in city :
-    if Q == 'berlin' :
+    if Q == 'berlin ' :
         break
     print(Q)
