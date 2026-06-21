@@ -11,4 +11,3 @@ for Q in city :
     if Q == 'berlin ' :
         break
     print(Q)
-
